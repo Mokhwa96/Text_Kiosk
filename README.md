@@ -7,7 +7,7 @@ String inputData = input.nextLine(): #문자열로 입력을 받는다.
 isConvertedNumber 메서드 추가
 menu_num = Integer.ParseInt(inputData) #그것을 정수로 바꾼다
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/02e4fdcb-93e5-49e9-8604-2e2302f836e2/26cb5dc1-0fcc-4a4d-be94-20ea8e3a5636/Untitled.png)
+![image](https://github.com/Mokhwa96/Text_Kiosk/assets/149074033/14777e03-ca2f-4687-b37c-bf32461f4088)
 
 toCharArray와 indexOF()를 이용해서 문자가 들어가 있는 지 확인한다.
 indexOF(): 있으면 인덱스 위치를 출력, 없으면 -1출력
